@@ -1,0 +1,83 @@
+/* cuerpo*/
+.cred {
+        width: 496px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 250px;
+        border-radius: 11.5px;
+        background-color: #dac4bf;
+        border-left:0px;
+}
+/*Encabezado*/
+.encabezado {
+        border-top-left-radius: 11.5px;
+        border-top-right-radius: 11.5px;
+        border-bottom-left-radius: 80%;
+        border-bottom-right-radius: 80%;
+        background-color: #a7918c;
+        height: 25%;
+        border-bottom: gray 2px solid;
+}
+ div  #escudo {
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 15px;
+    top: 5px;
+}
+.encabezado div .mexi p{
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+.encabezado div .insti p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.encabezado div .insti h1{
+    margin-top: -18px;
+    font-size: 15px;
+}
+/**/
+#perfil{
+    width:100%;
+    margin-left:10%;
+    margin-top:45%;
+
+}
+#perfil2{
+    width:50%;
+    margin-left:15%;
+    margin-top:15%
+}
+.datos p{
+    margin:0px;
+    font-size:10px;
+}
+.fecha p{
+    font-size: 8px;
+    margin:0px;
+    text-align: center;
+}
+.curp p{
+    font-size: 10px;
+    margin: 0px;
+}
+.pie p{
+    font-size: 9px;
+    margin: 0px;
+}
+#map1{
+    width:50%;
+    margin-left:15%;
+    margin-top:15%
+}
+#map2 {
+    opacity:0.2; 
+    position:absolute;
+    width:50%;
+    margin-left:12%;
+    margin-top:1%
+}
